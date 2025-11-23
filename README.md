@@ -1,4 +1,4 @@
-# 👋 Hello there, fellow <coders/>! 👨‍💻
+# 👋 Hello, <coders/>! 👨‍💻
 
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
@@ -65,8 +65,8 @@ Talk to me about:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saransh&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saransh&include_all_commits=true&count_private=true&hide_border=true&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=saransh&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://streak-stats.demolab.com?user=saransh&hide_border=true" />
 </p>
 
 ---
