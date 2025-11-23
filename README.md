@@ -40,7 +40,7 @@ Talk to me about:
 
 🔗 [https://allyone.com.au/](https://allyone.com.au/)
 
-### Unitracker — Next.js + Payload + MongoDB + d3.js
+### Unitracker — Next.js + Payload + d3.js
 
 🔗 [https://unitracker.aspi.org.au/](https://unitracker.aspi.org.au/)
 
