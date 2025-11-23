@@ -14,7 +14,7 @@ I love learning, experimenting with new tech, and making the web just a *little 
 ## 👥 Communities / Work
 
 * Full‑Stack Developer @ *What Works Global*
-* University of Canberra Graduate 🎓
+* University of Canberra 🎓
 * Builder of high‑impact digital platforms & AI‑integrated tools
 * Contributor across govt, defence, startup & enterprise projects
 
@@ -65,8 +65,8 @@ Talk to me about:
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=saransh&show_icons=true&hide_border=true&rank_icon=github" />
-<img src="https://streak-stats.demolab.com?user=saransh&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=saransh-100&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://streak-stats.demolab.com?user=saransh-100&hide_border=true" />
 </p>
 
 ---
