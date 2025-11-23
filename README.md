@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 </p>
 
-Hi! I'm **Saransh**, a full-stack web developer based in **Canberra**, crafting performant, creative and scalable web experiences at **What Works Global**.
+Hi! I'm **Saransh**, a full‑stack web developer based in **Canberra**, crafting performant, creative and scalable web experiences at **What Works Global**.
 
 I build things using **Next.js**, **React**, **Payload CMS**, **TypeScript**, **MongoDB**, **SQL**, **Node.js**, **Docker**, **AWS**, and more.
 I love learning, experimenting with new tech, and making the web just a *little more fun*.
@@ -13,9 +13,9 @@ I love learning, experimenting with new tech, and making the web just a *little 
 
 ## 👥 Communities / Work
 
-* Full-Stack Developer @ *What Works Global*
+* Full‑Stack Developer @ *What Works Global*
 * University of Canberra Graduate 🎓
-* Builder of high-impact digital platforms & AI-integrated tools
+* Builder of high‑impact digital platforms & AI‑integrated tools
 * Contributor across govt, defence, startup & enterprise projects
 
 ---
@@ -26,7 +26,7 @@ Talk to me about:
 
 * Modern frontend engineering using **React**, **Next.js**, **TypeScript**, **Tailwind**
 * Backend development using **Node.js**, **Express**, **Payload CMS**, **GraphQL**
-* Headless CMS & API-first architecture
+* Headless CMS & API‑first architecture
 * Databases: **MongoDB**, **PostgreSQL**, **SQL**, **Firebase**
 * Cloud & DevOps: **AWS**, **Docker**, **Linux**
 * Data visualisation using **d3.js**
@@ -65,8 +65,8 @@ Talk to me about:
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saransh&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saransh&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saransh&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saransh&include_all_commits=true&count_private=true&hide_border=true&hide_border=true" height="150" />
 </p>
 
 ---
