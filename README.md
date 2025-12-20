@@ -2,108 +2,119 @@
 <!--  SARANSH • GITHUB README  -->
 <!-- ========================= -->
 
-<h1 align="center">👋🏿 Hey, I'm Saransh</h1>
+<h1 align="center">👋🏿 Hi, I’m Saransh</h1>
 
 <p align="center">
-  <em>Full-Stack Developer • Creative Engineer • Problem Solver</em>
+  <em>Full-Stack Web Developer</em>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="210" />
 </p>
 
 ---
 
-## 🧠 About Me
+## About
 
-I'm a **web developer** based in **Canberra, Australia**, currently crafting scalable, high-impact digital platforms at **What Works Global**.
+I’m a **Web developer** working at **[What Works Global](https://whatworks.com.au/)**, building scalable, data-driven platforms across government, defence, startup, and enterprise environments.
 
-I specialise in building **modern, performant, API-driven web applications** with strong attention to **UX, maintainability, and creative engineering**.  
-I love experimenting with new technologies, integrating data & AI workflows, and making the web a little more elegant (and fun).
+I enjoy working across the stack from frontend performance and UX to backend architecture, CMS design, and cloud deployments.  
+I like clean systems, thoughtful UI, and developing things that actually get used.
 
 ---
 
-## 🏢 Work & Communities
+## Work & Background
 
-- **Full-Stack Developer** @ *What Works Global*
+- Full-Stack Developer @**[What Works Global](https://whatworks.com.au/)**
 - 🎓 University of Canberra
-- Builder of **government, defence, startup & enterprise platforms**
-- Focused on **data-driven systems, CMS architecture & AI-integrated tools**
+- Experience delivering **high-impact digital platforms**
+- Focus on **API-first systems, headless CMS, and data-heavy applications**
 
 ---
 
-## ⚙️ Tech Stack
+## Tech I Work With
 
 **Frontend**
-- React · Next.js · TypeScript
-- Tailwind CSS · d3.js
-- UI/UX workflows with Figma
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- d3.js
 
-**Backend**
-- Node.js · Express
-- Payload CMS · GraphQL
-- Django · REST APIs
+**Backend / CMS**
+- Node.js
+- Express
+- Payload CMS
+- WordPress
+- GraphQL
+- Django
 
 **Databases**
-- MongoDB · PostgreSQL · SQL
+- MongoDB
+- PostgreSQL
+- SQL
 - Firebase
 
 **Cloud & DevOps**
-- AWS · Docker · Linux
+- AWS
+- Docker
+- Linux
+
+**Design & Workflow**
+- Figma
 
 ---
 
-## 🌌 Featured Projects
+## Selected Projects
 
-### 🛡️ Allyone  
-**Django · React · PostgreSQL**
+### Allyone  
+**Django · React · PostgreSQL**  
+https://allyone.com.au/
 
-🔗 https://allyone.com.au/  
-Enterprise-grade platform focused on structured data workflows and secure system design.
-
----
-
-### 📊 Unitracker  
-**Next.js · Payload CMS · d3.js**
-
-🔗 https://unitracker.aspi.org.au/  
-A data-rich analytical platform featuring interactive visualisations and a headless CMS architecture.
+A secure, data-centric platform built for structured workflows and reliability at scale.
 
 ---
 
-### 🎨 Creative Builds  
+### Unitracker  
+**Next.js · Payload CMS · d3.js**  
+https://unitracker.aspi.org.au/
+
+A research and analytics platform featuring interactive data visualisation and a headless CMS architecture.
+
+---
+
+### Creative Builds  
 **Next.js · Payload · Relume · Webflow**
 
-- 🔗 https://www.himayat.com.au/
-- 🔗 https://cogitogroup.net/
-- 🔗 https://securesme.com/
-- 🔗 https://training.cogitogroup.net/
-- 🔗 https://www.x-rd.com.au/  
-  *(Next.js + Relume + Webflow integration)*
+- https://www.himayat.com.au/
+- https://cogitogroup.net/
+- https://securesme.com/
+- https://training.cogitogroup.net/
+- https://www.x-rd.com.au/  
+  *(Next.js with Relume + Webflow integration)*
 
-High-end marketing and content-driven sites with custom CMS pipelines and performance-focused builds.
-
----
-
-### 🌪️ VMGD — Vanuatu Meteorology & Geo-Hazards Dept  
-**WordPress · React · GraphQL**
-
-🔗 https://www.vmgd.gov.vu  
-
-A **national digital platform** delivering **real-time weather warnings and disaster advisories**, integrating dynamic data feeds and modern frontend architecture for public safety.
+Content-driven and marketing platforms with custom CMS pipelines and performance-focused builds.
 
 ---
 
-## 🎮 Beyond Code
+### VMGD — Vanuatu Meteorology & Geo-Hazards Department  
+**WordPress · React · GraphQL**  
+https://www.vmgd.gov.vu/
 
-- Gaming 🎮  
-- Programming experiments 💻  
-- Running 🏃  
-- Reading 📚  
+A national digital platform delivering **real-time weather warnings and disaster advisories**, designed for public accessibility and rapid information updates.
 
 ---
 
-## 📈 GitHub Stats
+## Outside of Work
+
+- Gaming 🎮
+- Side projects & experiments 💻
+- Running 🏃
+- Reading 📚
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saransh-100&show_icons=true&hide_border=true&theme=tokyonight" />
@@ -115,14 +126,15 @@ A **national digital platform** delivering **real-time weather warnings and disa
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
-- 🔗 **Portfolio:** https://saransh.com.au/
+- Portfolio → https://saransh.com.au/
+- LinkedIn → **[saransh-kharel](https://www.linkedin.com/in/saransh-kharel-710844231/)**
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" />
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="260" />
   <br/>
   <strong>Thanks for stopping by.</strong>
 </p>
