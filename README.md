@@ -34,34 +34,13 @@ I like clean systems, thoughtful UI, and developing things that actually get use
 
 ## Tech I Work With
 
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- d3.js
-
-**Backend / CMS**
-- Node.js
-- Express
-- Payload CMS
-- WordPress
-- GraphQL
-- Django
-
-**Databases**
-- MongoDB
-- PostgreSQL
-- SQL
-- Firebase
-
-**Cloud & DevOps**
-- AWS
-- Docker
-- Linux
-
-**Design & Workflow**
-- Figma
+| Area | Technologies |
+|-----|-------------|
+| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> &nbsp; React &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18"/> &nbsp; Next.js &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"/> &nbsp; TypeScript &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="18"/> &nbsp; Tailwind CSS &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="18"/> &nbsp; d3.js |
+| **Backend / CMS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> &nbsp; Node.js &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18"/> &nbsp; Express &nbsp;&nbsp;│&nbsp;&nbsp; Payload CMS &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="18"/> &nbsp; WordPress &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="18"/> &nbsp; GraphQL &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="18"/> &nbsp; Django |
+| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> &nbsp; MongoDB &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> &nbsp; PostgreSQL &nbsp;&nbsp;│&nbsp;&nbsp; SQL &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="18"/> &nbsp; Firebase |
+| **Cloud & DevOps** | <img src="https://cdn.simpleicons.org/amazonaws/white" width="18"/> &nbsp; AWS &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18"/> &nbsp; Docker &nbsp;&nbsp;│&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18"/> &nbsp; Linux |
+| **Design & Workflow** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18"/> &nbsp; Figma |
 
 ---
 
