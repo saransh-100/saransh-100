@@ -119,7 +119,19 @@ National platform delivering real-time weather warnings and disaster advisories,
 
 Content-driven and marketing platforms with custom CMS pipelines and performance-focused builds.
 
-🔗 [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/)
+🔗 [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/) · [secd3v.com.au](https://www.secd3v.com.au/) · [fivebridges.org.au](https://fivebridges.org.au/) · [recordtime.com.au](https://recordtime.com.au/) · [cbrin.com.au](https://cbrin.com.au/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚡ Bittn
+**Creative build · Salesforce integration**
+
+Content-driven creative build with a custom Salesforce integration powering CRM-connected workflows.
+
+🔗 [bittn.com.au](https://bittn.com.au/)
 
 </td>
 </tr>
