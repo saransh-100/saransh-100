@@ -6,8 +6,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-light.svg">
   <img src="./assets/header-dark.svg" alt="Animated ASCII terminal — SARANSH, full-stack web developer" width="900">
 </picture>
 
