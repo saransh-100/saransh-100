@@ -185,7 +185,7 @@ Developed a Figma plugin for marketing compliance, bringing automated brand and 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saransh.com.au-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saransh.com.au/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saransh--kharel-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-kharel-710844231/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saransh--kharel-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-kharel/)
 
 <br/>
 
