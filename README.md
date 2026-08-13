@@ -123,19 +123,29 @@ National platform delivering real-time weather warnings and disaster advisories,
 
 Content-driven and marketing platforms with custom CMS pipelines and performance-focused builds.
 
-🔗 [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/) · [secd3v.com.au](https://www.secd3v.com.au/) · [cbrin.com.au](https://cbrin.com.au/) · [fivebridges.org.au](https://fivebridges.org.au/) · [recordtime.com.au](https://recordtime.com.au/) · [ngamuru.com](https://ngamuru.com/)
+🔗 [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/) · [secd3v.com.au](https://www.secd3v.com.au/) · [cbrin.com.au](https://cbrin.com.au/) · [fivebridges.org.au](https://fivebridges.org.au/) · [bittn.com.au](https://bittn.com.au/) · [recordtime.com.au](https://recordtime.com.au/) · [ngamuru.com](https://ngamuru.com/)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ Bittn
-**Creative build · Salesforce integration**
+### ♿ Australian Medical Council
+**Accessibility · WCAG · Multilingual**
 
-Content-driven creative build with a custom Salesforce integration powering CRM-connected workflows.
+Enhanced the AMC website through accessibility upgrades, navigation improvements, multilingual integration, and front-end refinements — WCAG-focused fixes with improved screen reader support.
 
-🔗 [bittn.com.au](https://bittn.com.au/)
+🔗 [amc.org.au](https://www.amc.org.au/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 HAAST
+**Figma Plugin · Marketing Compliance**
+
+Developed a Figma plugin for marketing compliance, bringing automated brand and regulatory checks directly into the design workflow.
+
+🔗 [haast.io](https://haast.io/)
 
 </td>
 </tr>
