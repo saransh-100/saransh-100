@@ -17,13 +17,17 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=44&lines=Full-Stack+Web+Developer+%40+What+Works+Global;API-first+systems+%C2%B7+headless+CMS+%C2%B7+data-heavy+apps;Clean+systems.+Thoughtful+UI.+Things+that+get+used." alt="Typing intro">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-light.svg">
+  <img src="./assets/ascii-dark.svg" alt="ASCII art portrait of Saransh, typed out row by row in a terminal window" width="640">
+</picture>
+
 <img src="./assets/divider.svg" alt="" width="900">
 
 </div>
 
 ## `~ $ whoami`
-
-<img align="right" src="https://avatars.githubusercontent.com/u/86971506?v=4" width="130" alt="Saransh" />
 
 ```ts
 const saransh = {
@@ -119,7 +123,7 @@ National platform delivering real-time weather warnings and disaster advisories,
 
 Content-driven and marketing platforms with custom CMS pipelines and performance-focused builds.
 
-🔗 [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/) · [secd3v.com.au](https://www.secd3v.com.au/) · [fivebridges.org.au](https://fivebridges.org.au/) · [recordtime.com.au](https://recordtime.com.au/) · [cbrin.com.au](https://cbrin.com.au/)
+🔗 [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/) · [secd3v.com.au](https://www.secd3v.com.au/) · [cbrin.com.au](https://cbrin.com.au/) · [fivebridges.org.au](https://fivebridges.org.au/) · [recordtime.com.au](https://recordtime.com.au/) · [ngamuru.com](https://ngamuru.com/)
 
 </td>
 </tr>
@@ -152,6 +156,14 @@ Content-driven creative build with a custom Salesforce integration powering CRM-
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=saransh-100&hide_border=true&background=00000000&ring=FFFFFF&fire=E0E0E0&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=FFFFFF&sideLabels=B3B3B3&dates=5C5C5C&stroke=00000000">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=saransh-100&hide_border=true&background=00000000&ring=111111&fire=2B2B2B&currStreakNum=111111&sideNums=111111&currStreakLabel=111111&sideLabels=3D3D3D&dates=A3A3A3&stroke=00000000">
   <img src="https://streak-stats.demolab.com?user=saransh-100&hide_border=true&background=00000000&ring=FFFFFF&fire=E0E0E0&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=FFFFFF&sideLabels=B3B3B3&dates=5C5C5C&stroke=00000000" alt="GitHub streak" height="170">
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
+  <img src="./assets/contributions-dark.svg" alt="Animated contribution heatmap — refreshed daily by GitHub Actions" width="900">
 </picture>
 
 </div>
