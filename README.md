@@ -17,11 +17,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=44&lines=Full-Stack+Web+Developer+%40+What+Works+Global;API-first+systems+%C2%B7+headless+CMS+%C2%B7+data-heavy+apps;Clean+systems.+Thoughtful+UI.+Things+that+get+used." alt="Typing intro">
 </picture>
 
+<a href="https://github.com/saransh-100/saransh-100">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-light.svg">
-  <img src="./assets/ascii-dark.svg" alt="ASCII art portrait of Saransh, typed out row by row in a terminal window" width="640">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg">
+  <img src="./assets/neofetch-dark.svg" alt="Neofetch-style terminal card: ASCII portrait of Saransh beside system info and live GitHub stats, refreshed daily" width="900">
 </picture>
+</a>
 
 <img src="./assets/divider.svg" alt="" width="900">
 
@@ -82,74 +84,44 @@ and thoughtful UI.
 
 ## `~ $ ls projects/`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🛰️ Unitracker
-**Next.js · Payload CMS · d3.js**
+<a href="https://unitracker.aspi.org.au/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/unitracker-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/unitracker-light.svg">
+  <img src="./assets/projects/unitracker-dark.svg" alt="Unitracker — Next.js · Payload CMS · d3.js. Research and analytics platform with interactive data visualisation on a headless CMS architecture." width="410">
+</picture></a>
+<a href="https://allyone.com.au/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/allyone-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/allyone-light.svg">
+  <img src="./assets/projects/allyone-dark.svg" alt="Allyone — Django · React · PostgreSQL. A secure, data-centric platform built for structured workflows and reliability at scale." width="410">
+</picture></a>
 
-Research & analytics platform with interactive data visualisation on a headless CMS architecture.
+<a href="https://www.vmgd.gov.vu/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/vmgd-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/vmgd-light.svg">
+  <img src="./assets/projects/vmgd-dark.svg" alt="VMGD — Vanuatu Met and Geo-Hazards. WordPress · React · GraphQL. National platform delivering real-time weather warnings and disaster advisories." width="410">
+</picture></a>
+<a href="https://www.himayat.com.au/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/creative-builds-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/creative-builds-light.svg">
+  <img src="./assets/projects/creative-builds-dark.svg" alt="Creative Builds — Next.js · Payload · Relume · Webflow. Content-driven and marketing platforms with custom CMS pipelines — 11 client sites." width="410">
+</picture></a>
 
-🔗 [unitracker.aspi.org.au](https://unitracker.aspi.org.au/)
+<a href="https://www.amc.org.au/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/amc-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/amc-light.svg">
+  <img src="./assets/projects/amc-dark.svg" alt="Australian Medical Council — Accessibility · WCAG · Multilingual. Accessibility upgrades, navigation improvements, multilingual integration, and front-end refinements." width="410">
+</picture></a>
+<a href="https://haast.io/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/haast-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/haast-light.svg">
+  <img src="./assets/projects/haast-dark.svg" alt="HAAST — Figma plugin for marketing compliance, bringing automated brand and regulatory checks into the design workflow." width="410">
+</picture></a>
 
-</td>
-<td width="50%" valign="top">
+<sub>`creative-builds/` → [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/) · [secd3v.com.au](https://www.secd3v.com.au/) · [cbrin.com.au](https://cbrin.com.au/) · [fivebridges.org.au](https://fivebridges.org.au/) · [bittn.com.au](https://bittn.com.au/) · [recordtime.com.au](https://recordtime.com.au/) · [ngamuru.com](https://ngamuru.com/)</sub>
 
-### 🔐 Allyone
-**Django · React · PostgreSQL**
-
-A secure, data-centric platform built for structured workflows and reliability at scale.
-
-🔗 [allyone.com.au](https://allyone.com.au/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌋 VMGD — Vanuatu Met & Geo-Hazards
-**WordPress · React · GraphQL**
-
-National platform delivering real-time weather warnings and disaster advisories, built for public accessibility and rapid updates.
-
-🔗 [vmgd.gov.vu](https://www.vmgd.gov.vu/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Creative Builds
-**Next.js · Payload · Relume · Webflow**
-
-Content-driven and marketing platforms with custom CMS pipelines and performance-focused builds.
-
-🔗 [himayat.com.au](https://www.himayat.com.au/) · [cogitogroup.net](https://cogitogroup.net/) · [securesme.com](https://securesme.com/) · [training.cogitogroup.net](https://training.cogitogroup.net/) · [x-rd.com.au](https://www.x-rd.com.au/) · [secd3v.com.au](https://www.secd3v.com.au/) · [cbrin.com.au](https://cbrin.com.au/) · [fivebridges.org.au](https://fivebridges.org.au/) · [bittn.com.au](https://bittn.com.au/) · [recordtime.com.au](https://recordtime.com.au/) · [ngamuru.com](https://ngamuru.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ♿ Australian Medical Council
-**Accessibility · WCAG · Multilingual**
-
-Enhanced the AMC website through accessibility upgrades, navigation improvements, multilingual integration, and front-end refinements — WCAG-focused fixes with improved screen reader support.
-
-🔗 [amc.org.au](https://www.amc.org.au/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 HAAST
-**Figma Plugin · Marketing Compliance**
-
-Developed a Figma plugin for marketing compliance, bringing automated brand and regulatory checks directly into the design workflow.
-
-🔗 [haast.io](https://haast.io/)
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="900"></div>
 

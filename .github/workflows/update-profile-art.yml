@@ -18,17 +18,26 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
       - name: Refresh contribution heatmap
         run: |
           python scripts/fetch_contributions.py
           python scripts/render_heatmap_svg.py
 
-      # the portrait only changes when the source photo does — regenerate on manual runs
-      - name: Regenerate ASCII portrait
+      # uptime + stats change daily
+      - name: Refresh neofetch card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/make_neofetch_svg.py
+
+      # the portrait and project cards only change with their sources — regenerate on manual runs
+      - name: Regenerate ASCII portrait and project cards
         if: github.event_name == 'workflow_dispatch'
         run: |
-          pip install -r scripts/requirements.txt
           python scripts/make_ascii_svg.py
+          python scripts/make_project_cards.py
 
       - name: Commit and push if changed
         run: |
