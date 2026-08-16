@@ -21,8 +21,9 @@ W = 440
 PAD = 24
 CHROME_H = 36
 WRAP = 56          # description wrap width, chars
-DESC_LINES = 4     # uniform card height across the set
+LINK_WRAP = 50     # link-list wrap width, chars
 NAME_F, STACK_F, DESC_F, LINK_F = 14, 11, 11.5, 12
+LINE_H = 17
 
 PROJECTS = [
     {
@@ -31,7 +32,7 @@ PROJECTS = [
         "stack": "Next.js · Payload CMS · d3.js",
         "desc": "Research & analytics platform with interactive data "
                 "visualisation on a headless CMS architecture.",
-        "link": "unitracker.aspi.org.au",
+        "links": ["unitracker.aspi.org.au"],
     },
     {
         "slug": "allyone",
@@ -39,7 +40,7 @@ PROJECTS = [
         "stack": "Django · React · PostgreSQL",
         "desc": "A secure, data-centric platform built for structured "
                 "workflows and reliability at scale.",
-        "link": "allyone.com.au",
+        "links": ["allyone.com.au"],
     },
     {
         "slug": "vmgd",
@@ -48,16 +49,20 @@ PROJECTS = [
         "desc": "National platform delivering real-time weather warnings and "
                 "disaster advisories, built for public accessibility and "
                 "rapid updates.",
-        "link": "vmgd.gov.vu",
+        "links": ["vmgd.gov.vu"],
     },
     {
         "slug": "creative-builds",
         "emoji": "🎨",
         "stack": "Next.js · Payload · Relume · Webflow",
         "desc": "Content-driven and marketing platforms with custom CMS "
-                "pipelines and performance-focused builds — 11 client sites.",
-        "link": "himayat.com.au",
-        "link_extra": " +10 more",
+                "pipelines and performance-focused builds.",
+        "links": [
+            "himayat.com.au", "cogitogroup.net", "securesme.com",
+            "training.cogitogroup.net", "x-rd.com.au", "secd3v.com.au",
+            "cbrin.com.au", "fivebridges.org.au", "bittn.com.au",
+            "recordtime.com.au", "ngamuru.com",
+        ],
     },
     {
         "slug": "amc",
@@ -67,7 +72,7 @@ PROJECTS = [
                 "navigation improvements, multilingual integration, and "
                 "front-end refinements — WCAG-focused fixes with improved "
                 "screen reader support.",
-        "link": "amc.org.au",
+        "links": ["amc.org.au"],
     },
     {
         "slug": "haast",
@@ -76,7 +81,7 @@ PROJECTS = [
         "desc": "A Figma plugin for marketing compliance, bringing automated "
                 "brand and regulatory checks directly into the design "
                 "workflow.",
-        "link": "haast.io",
+        "links": ["haast.io"],
     },
 ]
 
@@ -116,20 +121,39 @@ def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def build(theme_name, proj, index, total):
+def wrap_links(links):
+    """Greedy-wrap the domain list into lines of domain tokens."""
+    lines, cur = [], []
+    for d in links:
+        cand = cur + [d]
+        if cur and len(" · ".join(cand)) > LINK_WRAP:
+            lines.append(cur)
+            cur = [d]
+        else:
+            cur = cand
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def body_lines(proj):
+    return len(textwrap.wrap(proj["desc"], WRAP)) + len(wrap_links(proj["links"]))
+
+
+def build(theme_name, proj, index, total, body):
     t = THEMES[theme_name]
     desc_lines = textwrap.wrap(proj["desc"], WRAP)
-    assert len(desc_lines) <= DESC_LINES, f"{proj['slug']}: description too long"
+    link_lines = wrap_links(proj["links"])
 
     name_y = CHROME_H + 30
     stack_y = name_y + 20
     rule_y = stack_y + 12
     desc_y0 = rule_y + 22
-    link_y = desc_y0 + DESC_LINES * 17 + 8
-    height = link_y + 24
+    # link block pinned to the bottom of a uniform-height body
+    link_y0 = desc_y0 + (body - len(link_lines)) * LINE_H + 8
+    height = link_y0 + len(link_lines) * LINE_H + 8
 
-    # fade-in order: name, stack, desc lines, link
-    fades = 2 + len(desc_lines) + 1
+    fades = 2 + len(desc_lines) + len(link_lines)
     cur_delay = 0.15 + fades * 0.09 + 0.25
 
     parts = [
@@ -190,17 +214,23 @@ def build(theme_name, proj, index, total):
         f'stroke="{t["frame"]}" stroke-opacity=".1"/>'
     )
     for i, line in enumerate(desc_lines):
-        ln(f'<tspan fill="{t["desc"]}" font-size="{DESC_F}">{esc(line)}</tspan>', desc_y0 + i * 17)
-    extra = proj.get("link_extra", "")
-    ln(
-        f'<tspan fill="{t["link"]}" font-size="{LINK_F}">↗ {esc(proj["link"])}</tspan>'
-        + (f'<tspan fill="{t["faint"]}" font-size="{LINK_F}">{esc(extra)}</tspan>' if extra else ""),
-        link_y,
-    )
+        ln(f'<tspan fill="{t["desc"]}" font-size="{DESC_F}">{esc(line)}</tspan>', desc_y0 + i * LINE_H)
 
-    cur_x = PAD + (2 + len(proj["link"]) + len(extra)) * LINK_F * 0.62 + 8
+    for i, tokens in enumerate(link_lines):
+        prefix = "↗ " if i == 0 else "  "
+        spans = [f'<tspan fill="{t["faint"]}" font-size="{LINK_F}">{prefix}</tspan>']
+        for j, d in enumerate(tokens):
+            if j:
+                spans.append(f'<tspan fill="{t["faint"]}" font-size="{LINK_F}"> · </tspan>')
+            spans.append(f'<tspan fill="{t["link"]}" font-size="{LINK_F}">{esc(d)}</tspan>')
+        ln("".join(spans), link_y0 + i * LINE_H)
+
+    last_tokens = link_lines[-1]
+    last_len = 2 + len(" · ".join(last_tokens))
+    last_y = link_y0 + (len(link_lines) - 1) * LINE_H
+    cur_x = PAD + last_len * LINK_F * 0.62 + 8
     parts.append(
-        f'  <rect class="cur" x="{cur_x:.0f}" y="{link_y - LINK_F + 2}" width="7" '
+        f'  <rect class="cur" x="{cur_x:.0f}" y="{last_y - LINK_F + 2}" width="7" '
         f'height="{LINK_F}" fill="{t["ink"]}"/>'
     )
     parts.append(f'  <rect x="{PAD - 8}" y="{CHROME_H + 6}" width="{W - 2 * PAD + 16}" '
@@ -211,10 +241,11 @@ def build(theme_name, proj, index, total):
 
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    body = max(body_lines(p) for p in PROJECTS)
     for i, proj in enumerate(PROJECTS, 1):
         for theme in THEMES:
             out = OUT_DIR / f"{proj['slug']}-{theme}.svg"
-            out.write_text(build(theme, proj, i, len(PROJECTS)))
+            out.write_text(build(theme, proj, i, len(PROJECTS), body))
             print(f"wrote {out.relative_to(ROOT)}")
 
 

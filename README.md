@@ -6,12 +6,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-dark.svg" alt="Animated ASCII terminal — SARANSH, full-stack web developer" width="900">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=44&lines=Full-Stack+Web+Developer+%40+What+Works+Global;API-first+systems+%C2%B7+headless+CMS+%C2%B7+data-heavy+apps;Clean+systems.+Thoughtful+UI.+Things+that+get+used.">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=111111&center=true&vCenter=true&width=620&height=44&lines=Full-Stack+Web+Developer+%40+What+Works+Global;API-first+systems+%C2%B7+headless+CMS+%C2%B7+data-heavy+apps;Clean+systems.+Thoughtful+UI.+Things+that+get+used.">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&height=44&lines=Full-Stack+Web+Developer+%40+What+Works+Global;API-first+systems+%C2%B7+headless+CMS+%C2%B7+data-heavy+apps;Clean+systems.+Thoughtful+UI.+Things+that+get+used." alt="Typing intro">
@@ -28,59 +22,6 @@
 <img src="./assets/divider.svg" alt="" width="900">
 
 </div>
-
-## `~ $ whoami`
-
-```ts
-const saransh = {
-  role:      "Full-Stack Web Developer",
-  company:   "What Works Global",          // whatworks.com.au
-  education: "University of Canberra",
-  domains:   ["government", "defence", "startup", "enterprise"],
-  focus:     ["API-first systems", "headless CMS", "data-heavy apps"],
-  belief:    "build things that actually get used",
-};
-```
-
-I work across the stack — from frontend performance and UX to backend
-architecture, CMS design, and cloud deployments. I like clean systems
-and thoughtful UI.
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="900"></div>
-
-## `~ $ cat stack.txt`
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![D3.js](https://img.shields.io/badge/d3.js-000000?style=for-the-badge&logo=d3dotjs&logoColor=white)
-
-**Backend & CMS**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Cloud, DevOps & Design**
-
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="900"></div>
 
 ## `~ $ ls projects/`
 
