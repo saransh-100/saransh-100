@@ -66,7 +66,7 @@
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="900"></div>
 
-## ✍🏾 Latest Blog Posts
+## `~ $ ls blog/`
 
 - [Your API Should Be Boring](https://saranshkharel.dev/blog/your-api-should-be-boring)
 - [Your Website Does Not Need to Bench Press 200MB](https://saranshkharel.dev/blog/your-website-does-not-need-to-bench-press-200mb)
