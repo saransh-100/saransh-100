@@ -43,6 +43,7 @@
   <text class="mono fade" style="animation-delay:0.72s" x="653" y="62" fill="#8A8A8A" font-size="10.5">Jul</text>
   <text class="mono fade" style="animation-delay:0.77s" x="713" y="62" fill="#8A8A8A" font-size="10.5">Aug</text>
   <text class="mono fade" style="animation-delay:0.83s" x="788" y="62" fill="#8A8A8A" font-size="10.5">Sep</text>
+  <text class="mono fade" style="animation-delay:0.87s" x="848" y="62" fill="#8A8A8A" font-size="10.5">Oct</text>
   <text class="mono fade" style="animation-delay:.3s" x="30" y="99" fill="#8A8A8A" font-size="10.5">Mon</text>
   <text class="mono fade" style="animation-delay:.3s" x="30" y="129" fill="#8A8A8A" font-size="10.5">Wed</text>
   <text class="mono fade" style="animation-delay:.3s" x="30" y="159" fill="#8A8A8A" font-size="10.5">Fri</text>
@@ -414,6 +415,7 @@
   <rect class="c" style="animation-delay:0.981s" x="848" y="89" width="12" height="12" rx="3" fill="#C4C4C4"><title>1 on 2026-09-28</title></rect>
   <rect class="c" style="animation-delay:1.026s" x="848" y="104" width="12" height="12" rx="3" fill="#E8E8E8" stroke="#111111" stroke-opacity=".06"><title>0 on 2026-09-29</title></rect>
   <rect class="c" style="animation-delay:1.071s" x="848" y="119" width="12" height="12" rx="3" fill="#C4C4C4"><title>2 on 2026-09-30</title></rect>
+  <rect class="c" style="animation-delay:1.116s" x="848" y="134" width="12" height="12" rx="3" fill="#E8E8E8" stroke="#111111" stroke-opacity=".06"><title>0 on 2026-10-01</title></rect>
   <text class="mono fade" style="animation-delay:1.78s" x="34" y="210" fill="#111111" font-size="12.5"><tspan fill="#5C5C5C">~ $</tspan> 1,896 contributions<tspan fill="#8A8A8A"> · </tspan><tspan fill="#5C5C5C">longest</tspan> 27d<tspan fill="#8A8A8A"> · </tspan><tspan fill="#5C5C5C">current</tspan> 1d<tspan fill="#8A8A8A"> · </tspan><tspan fill="#5C5C5C">best</tspan> 39 on Jul 17</text>
   <rect class="cur" x="42" y="222" width="7" height="13" fill="#111111"/>
   <text class="mono fade" style="animation-delay:1.88s" x="698" y="210" text-anchor="end" fill="#8A8A8A" font-size="10.5">less</text>
