@@ -1,4 +1,4 @@
-<svg viewBox="0 0 894 240" width="894" height="240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub contribution heatmap for saransh-100: 1822 contributions in the last year">
+<svg viewBox="0 0 894 240" width="894" height="240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub contribution heatmap for saransh-100: 1826 contributions in the last year">
   <style>
     .mono { font-family: "JetBrains Mono", "Fira Code", "SF Mono", "Cascadia Code", Consolas, monospace; }
     text  { font-size: 12px; }
@@ -55,7 +55,7 @@
   <rect class="c" style="animation-delay:0.225s" x="68" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>10 on 2025-10-10</title></rect>
   <rect class="c" style="animation-delay:0.270s" x="68" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2025-10-11</title></rect>
   <rect class="c" style="animation-delay:0.018s" x="83" y="74" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2025-10-12</title></rect>
-  <rect class="c" style="animation-delay:0.063s" x="83" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-10-13</title></rect>
+  <rect class="c" style="animation-delay:0.063s" x="83" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-10-13</title></rect>
   <rect class="c" style="animation-delay:0.108s" x="83" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>11 on 2025-10-14</title></rect>
   <rect class="c" style="animation-delay:0.153s" x="83" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-10-15</title></rect>
   <rect class="c" style="animation-delay:0.198s" x="83" y="134" width="12" height="12" rx="3" fill="#B3B3B3"><title>16 on 2025-10-16</title></rect>
@@ -67,7 +67,7 @@
   <rect class="c" style="animation-delay:0.171s" x="98" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>9 on 2025-10-22</title></rect>
   <rect class="c" style="animation-delay:0.216s" x="98" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2025-10-23</title></rect>
   <rect class="c" style="animation-delay:0.261s" x="98" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2025-10-24</title></rect>
-  <rect class="c" style="animation-delay:0.306s" x="98" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-10-25</title></rect>
+  <rect class="c" style="animation-delay:0.306s" x="98" y="164" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-10-25</title></rect>
   <rect class="c" style="animation-delay:0.054s" x="113" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-10-26</title></rect>
   <rect class="c" style="animation-delay:0.099s" x="113" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2025-10-27</title></rect>
   <rect class="c" style="animation-delay:0.144s" x="113" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2025-10-28</title></rect>
@@ -79,28 +79,28 @@
   <rect class="c" style="animation-delay:0.117s" x="128" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2025-11-03</title></rect>
   <rect class="c" style="animation-delay:0.162s" x="128" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2025-11-04</title></rect>
   <rect class="c" style="animation-delay:0.207s" x="128" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-11-05</title></rect>
-  <rect class="c" style="animation-delay:0.252s" x="128" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2025-11-06</title></rect>
+  <rect class="c" style="animation-delay:0.252s" x="128" y="134" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2025-11-06</title></rect>
   <rect class="c" style="animation-delay:0.297s" x="128" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2025-11-07</title></rect>
   <rect class="c" style="animation-delay:0.342s" x="128" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2025-11-08</title></rect>
   <rect class="c" style="animation-delay:0.090s" x="143" y="74" width="12" height="12" rx="3" fill="#6E6E6E"><title>10 on 2025-11-09</title></rect>
   <rect class="c" style="animation-delay:0.135s" x="143" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2025-11-10</title></rect>
   <rect class="c" style="animation-delay:0.180s" x="143" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2025-11-11</title></rect>
-  <rect class="c" style="animation-delay:0.225s" x="143" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-11-12</title></rect>
+  <rect class="c" style="animation-delay:0.225s" x="143" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-11-12</title></rect>
   <rect class="c" style="animation-delay:0.270s" x="143" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-11-13</title></rect>
-  <rect class="c" style="animation-delay:0.315s" x="143" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-11-14</title></rect>
+  <rect class="c" style="animation-delay:0.315s" x="143" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-11-14</title></rect>
   <rect class="c" style="animation-delay:0.360s" x="143" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-11-15</title></rect>
   <rect class="c" style="animation-delay:0.108s" x="158" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-11-16</title></rect>
   <rect class="c" style="animation-delay:0.153s" x="158" y="89" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-11-17</title></rect>
   <rect class="c" style="animation-delay:0.198s" x="158" y="104" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-11-18</title></rect>
   <rect class="c" style="animation-delay:0.243s" x="158" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-11-19</title></rect>
-  <rect class="c" style="animation-delay:0.288s" x="158" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-11-20</title></rect>
+  <rect class="c" style="animation-delay:0.288s" x="158" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-11-20</title></rect>
   <rect class="c" style="animation-delay:0.333s" x="158" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-11-21</title></rect>
   <rect class="c" style="animation-delay:0.378s" x="158" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2025-11-22</title></rect>
   <rect class="c" style="animation-delay:0.126s" x="173" y="74" width="12" height="12" rx="3" fill="#B3B3B3"><title>13 on 2025-11-23</title></rect>
   <rect class="c" style="animation-delay:0.171s" x="173" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-11-24</title></rect>
   <rect class="c" style="animation-delay:0.216s" x="173" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-11-25</title></rect>
-  <rect class="c" style="animation-delay:0.261s" x="173" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2025-11-26</title></rect>
-  <rect class="c" style="animation-delay:0.306s" x="173" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-11-27</title></rect>
+  <rect class="c" style="animation-delay:0.261s" x="173" y="119" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2025-11-26</title></rect>
+  <rect class="c" style="animation-delay:0.306s" x="173" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-11-27</title></rect>
   <rect class="c" style="animation-delay:0.351s" x="173" y="149" width="12" height="12" rx="3" fill="#B3B3B3"><title>14 on 2025-11-28</title></rect>
   <rect class="c" style="animation-delay:0.396s" x="173" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-11-29</title></rect>
   <rect class="c" style="animation-delay:0.144s" x="188" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-11-30</title></rect>
@@ -115,19 +115,19 @@
   <rect class="c" style="animation-delay:0.252s" x="203" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2025-12-09</title></rect>
   <rect class="c" style="animation-delay:0.297s" x="203" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2025-12-10</title></rect>
   <rect class="c" style="animation-delay:0.342s" x="203" y="134" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-12-11</title></rect>
-  <rect class="c" style="animation-delay:0.387s" x="203" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-12-12</title></rect>
+  <rect class="c" style="animation-delay:0.387s" x="203" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-12-12</title></rect>
   <rect class="c" style="animation-delay:0.432s" x="203" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-12-13</title></rect>
   <rect class="c" style="animation-delay:0.180s" x="218" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-12-14</title></rect>
   <rect class="c" style="animation-delay:0.225s" x="218" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2025-12-15</title></rect>
-  <rect class="c" style="animation-delay:0.270s" x="218" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-12-16</title></rect>
+  <rect class="c" style="animation-delay:0.270s" x="218" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-12-16</title></rect>
   <rect class="c" style="animation-delay:0.315s" x="218" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2025-12-17</title></rect>
   <rect class="c" style="animation-delay:0.360s" x="218" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2025-12-18</title></rect>
-  <rect class="c" style="animation-delay:0.405s" x="218" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2025-12-19</title></rect>
+  <rect class="c" style="animation-delay:0.405s" x="218" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2025-12-19</title></rect>
   <rect class="c" style="animation-delay:0.450s" x="218" y="164" width="12" height="12" rx="3" fill="#B3B3B3"><title>13 on 2025-12-20</title></rect>
   <rect class="c" style="animation-delay:0.198s" x="233" y="74" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2025-12-21</title></rect>
   <rect class="c" style="animation-delay:0.243s" x="233" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2025-12-22</title></rect>
   <rect class="c" style="animation-delay:0.288s" x="233" y="104" width="12" height="12" rx="3" fill="#B3B3B3"><title>13 on 2025-12-23</title></rect>
-  <rect class="c" style="animation-delay:0.333s" x="233" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2025-12-24</title></rect>
+  <rect class="c" style="animation-delay:0.333s" x="233" y="119" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2025-12-24</title></rect>
   <rect class="c" style="animation-delay:0.378s" x="233" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2025-12-25</title></rect>
   <rect class="c" style="animation-delay:0.423s" x="233" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>9 on 2025-12-26</title></rect>
   <rect class="c" style="animation-delay:0.468s" x="233" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2025-12-27</title></rect>
@@ -143,7 +143,7 @@
   <rect class="c" style="animation-delay:0.324s" x="263" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-01-06</title></rect>
   <rect class="c" style="animation-delay:0.369s" x="263" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-01-07</title></rect>
   <rect class="c" style="animation-delay:0.414s" x="263" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-01-08</title></rect>
-  <rect class="c" style="animation-delay:0.459s" x="263" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2026-01-09</title></rect>
+  <rect class="c" style="animation-delay:0.459s" x="263" y="149" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2026-01-09</title></rect>
   <rect class="c" style="animation-delay:0.504s" x="263" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-01-10</title></rect>
   <rect class="c" style="animation-delay:0.252s" x="278" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-01-11</title></rect>
   <rect class="c" style="animation-delay:0.297s" x="278" y="89" width="12" height="12" rx="3" fill="#B3B3B3"><title>13 on 2026-01-12</title></rect>
@@ -153,11 +153,11 @@
   <rect class="c" style="animation-delay:0.477s" x="278" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>9 on 2026-01-16</title></rect>
   <rect class="c" style="animation-delay:0.522s" x="278" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-01-17</title></rect>
   <rect class="c" style="animation-delay:0.270s" x="293" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-01-18</title></rect>
-  <rect class="c" style="animation-delay:0.315s" x="293" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-01-19</title></rect>
-  <rect class="c" style="animation-delay:0.360s" x="293" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-01-20</title></rect>
+  <rect class="c" style="animation-delay:0.315s" x="293" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-01-19</title></rect>
+  <rect class="c" style="animation-delay:0.360s" x="293" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-01-20</title></rect>
   <rect class="c" style="animation-delay:0.405s" x="293" y="119" width="12" height="12" rx="3" fill="#B3B3B3"><title>13 on 2026-01-21</title></rect>
   <rect class="c" style="animation-delay:0.450s" x="293" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-01-22</title></rect>
-  <rect class="c" style="animation-delay:0.495s" x="293" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-01-23</title></rect>
+  <rect class="c" style="animation-delay:0.495s" x="293" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-01-23</title></rect>
   <rect class="c" style="animation-delay:0.540s" x="293" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-01-24</title></rect>
   <rect class="c" style="animation-delay:0.288s" x="308" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-01-25</title></rect>
   <rect class="c" style="animation-delay:0.333s" x="308" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2026-01-26</title></rect>
@@ -174,7 +174,7 @@
   <rect class="c" style="animation-delay:0.531s" x="323" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-02-06</title></rect>
   <rect class="c" style="animation-delay:0.576s" x="323" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-02-07</title></rect>
   <rect class="c" style="animation-delay:0.324s" x="338" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-02-08</title></rect>
-  <rect class="c" style="animation-delay:0.369s" x="338" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-02-09</title></rect>
+  <rect class="c" style="animation-delay:0.369s" x="338" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-02-09</title></rect>
   <rect class="c" style="animation-delay:0.414s" x="338" y="104" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-02-10</title></rect>
   <rect class="c" style="animation-delay:0.459s" x="338" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2026-02-11</title></rect>
   <rect class="c" style="animation-delay:0.504s" x="338" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-02-12</title></rect>
@@ -192,19 +192,19 @@
   <rect class="c" style="animation-delay:0.450s" x="368" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-02-24</title></rect>
   <rect class="c" style="animation-delay:0.495s" x="368" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-02-25</title></rect>
   <rect class="c" style="animation-delay:0.540s" x="368" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-02-26</title></rect>
-  <rect class="c" style="animation-delay:0.585s" x="368" y="149" width="12" height="12" rx="3" fill="#B3B3B3"><title>18 on 2026-02-27</title></rect>
+  <rect class="c" style="animation-delay:0.585s" x="368" y="149" width="12" height="12" rx="3" fill="#FFFFFF"><title>18 on 2026-02-27</title></rect>
   <rect class="c" style="animation-delay:0.630s" x="368" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-02-28</title></rect>
   <rect class="c" style="animation-delay:0.378s" x="383" y="74" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-03-01</title></rect>
   <rect class="c" style="animation-delay:0.423s" x="383" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-03-02</title></rect>
   <rect class="c" style="animation-delay:0.468s" x="383" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-03-03</title></rect>
-  <rect class="c" style="animation-delay:0.513s" x="383" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-03-04</title></rect>
-  <rect class="c" style="animation-delay:0.558s" x="383" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2026-03-05</title></rect>
+  <rect class="c" style="animation-delay:0.513s" x="383" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-03-04</title></rect>
+  <rect class="c" style="animation-delay:0.558s" x="383" y="134" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2026-03-05</title></rect>
   <rect class="c" style="animation-delay:0.603s" x="383" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-03-06</title></rect>
   <rect class="c" style="animation-delay:0.648s" x="383" y="164" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-03-07</title></rect>
   <rect class="c" style="animation-delay:0.396s" x="398" y="74" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2026-03-08</title></rect>
   <rect class="c" style="animation-delay:0.441s" x="398" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-03-09</title></rect>
   <rect class="c" style="animation-delay:0.486s" x="398" y="104" width="12" height="12" rx="3" fill="#B3B3B3"><title>17 on 2026-03-10</title></rect>
-  <rect class="c" style="animation-delay:0.531s" x="398" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2026-03-11</title></rect>
+  <rect class="c" style="animation-delay:0.531s" x="398" y="119" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2026-03-11</title></rect>
   <rect class="c" style="animation-delay:0.576s" x="398" y="134" width="12" height="12" rx="3" fill="#B3B3B3"><title>14 on 2026-03-12</title></rect>
   <rect class="c" style="animation-delay:0.621s" x="398" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-03-13</title></rect>
   <rect class="c" style="animation-delay:0.666s" x="398" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-03-14</title></rect>
@@ -212,7 +212,7 @@
   <rect class="c" style="animation-delay:0.459s" x="413" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-03-16</title></rect>
   <rect class="c" style="animation-delay:0.504s" x="413" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>10 on 2026-03-17</title></rect>
   <rect class="c" style="animation-delay:0.549s" x="413" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>11 on 2026-03-18</title></rect>
-  <rect class="c" style="animation-delay:0.594s" x="413" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2026-03-19</title></rect>
+  <rect class="c" style="animation-delay:0.594s" x="413" y="134" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2026-03-19</title></rect>
   <rect class="c" style="animation-delay:0.639s" x="413" y="149" width="12" height="12" rx="3" fill="#B3B3B3"><title>13 on 2026-03-20</title></rect>
   <rect class="c" style="animation-delay:0.684s" x="413" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2026-03-21</title></rect>
   <rect class="c" style="animation-delay:0.432s" x="428" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-03-22</title></rect>
@@ -225,7 +225,7 @@
   <rect class="c" style="animation-delay:0.450s" x="443" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-03-29</title></rect>
   <rect class="c" style="animation-delay:0.495s" x="443" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-03-30</title></rect>
   <rect class="c" style="animation-delay:0.540s" x="443" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>11 on 2026-03-31</title></rect>
-  <rect class="c" style="animation-delay:0.585s" x="443" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2026-04-01</title></rect>
+  <rect class="c" style="animation-delay:0.585s" x="443" y="119" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2026-04-01</title></rect>
   <rect class="c" style="animation-delay:0.630s" x="443" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-04-02</title></rect>
   <rect class="c" style="animation-delay:0.675s" x="443" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2026-04-03</title></rect>
   <rect class="c" style="animation-delay:0.720s" x="443" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-04</title></rect>
@@ -234,21 +234,21 @@
   <rect class="c" style="animation-delay:0.558s" x="458" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-04-07</title></rect>
   <rect class="c" style="animation-delay:0.603s" x="458" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-04-08</title></rect>
   <rect class="c" style="animation-delay:0.648s" x="458" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-04-09</title></rect>
-  <rect class="c" style="animation-delay:0.693s" x="458" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-04-10</title></rect>
+  <rect class="c" style="animation-delay:0.693s" x="458" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-04-10</title></rect>
   <rect class="c" style="animation-delay:0.738s" x="458" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-11</title></rect>
   <rect class="c" style="animation-delay:0.486s" x="473" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-12</title></rect>
   <rect class="c" style="animation-delay:0.531s" x="473" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2026-04-13</title></rect>
   <rect class="c" style="animation-delay:0.576s" x="473" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-04-14</title></rect>
   <rect class="c" style="animation-delay:0.621s" x="473" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-04-15</title></rect>
-  <rect class="c" style="animation-delay:0.666s" x="473" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-04-16</title></rect>
+  <rect class="c" style="animation-delay:0.666s" x="473" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-04-16</title></rect>
   <rect class="c" style="animation-delay:0.711s" x="473" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-04-17</title></rect>
   <rect class="c" style="animation-delay:0.756s" x="473" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-18</title></rect>
   <rect class="c" style="animation-delay:0.504s" x="488" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-19</title></rect>
-  <rect class="c" style="animation-delay:0.549s" x="488" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2026-04-20</title></rect>
-  <rect class="c" style="animation-delay:0.594s" x="488" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-04-21</title></rect>
+  <rect class="c" style="animation-delay:0.549s" x="488" y="89" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2026-04-20</title></rect>
+  <rect class="c" style="animation-delay:0.594s" x="488" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-04-21</title></rect>
   <rect class="c" style="animation-delay:0.639s" x="488" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-04-22</title></rect>
   <rect class="c" style="animation-delay:0.684s" x="488" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-04-23</title></rect>
-  <rect class="c" style="animation-delay:0.729s" x="488" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-04-24</title></rect>
+  <rect class="c" style="animation-delay:0.729s" x="488" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-04-24</title></rect>
   <rect class="c" style="animation-delay:0.774s" x="488" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-25</title></rect>
   <rect class="c" style="animation-delay:0.522s" x="503" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-26</title></rect>
   <rect class="c" style="animation-delay:0.567s" x="503" y="89" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-04-27</title></rect>
@@ -295,8 +295,8 @@
   <rect class="c" style="animation-delay:0.630s" x="593" y="74" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2026-06-07</title></rect>
   <rect class="c" style="animation-delay:0.675s" x="593" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2026-06-08</title></rect>
   <rect class="c" style="animation-delay:0.720s" x="593" y="104" width="12" height="12" rx="3" fill="#B3B3B3"><title>14 on 2026-06-09</title></rect>
-  <rect class="c" style="animation-delay:0.765s" x="593" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-06-10</title></rect>
-  <rect class="c" style="animation-delay:0.810s" x="593" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-06-11</title></rect>
+  <rect class="c" style="animation-delay:0.765s" x="593" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-06-10</title></rect>
+  <rect class="c" style="animation-delay:0.810s" x="593" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-06-11</title></rect>
   <rect class="c" style="animation-delay:0.855s" x="593" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-06-12</title></rect>
   <rect class="c" style="animation-delay:0.900s" x="593" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-06-13</title></rect>
   <rect class="c" style="animation-delay:0.648s" x="608" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-06-14</title></rect>
@@ -328,8 +328,8 @@
   <rect class="c" style="animation-delay:0.927s" x="653" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-07-10</title></rect>
   <rect class="c" style="animation-delay:0.972s" x="653" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-07-11</title></rect>
   <rect class="c" style="animation-delay:0.720s" x="668" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-07-12</title></rect>
-  <rect class="c" style="animation-delay:0.765s" x="668" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-07-13</title></rect>
-  <rect class="c" style="animation-delay:0.810s" x="668" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>12 on 2026-07-14</title></rect>
+  <rect class="c" style="animation-delay:0.765s" x="668" y="89" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-07-13</title></rect>
+  <rect class="c" style="animation-delay:0.810s" x="668" y="104" width="12" height="12" rx="3" fill="#B3B3B3"><title>12 on 2026-07-14</title></rect>
   <rect class="c" style="animation-delay:0.855s" x="668" y="119" width="12" height="12" rx="3" fill="#FFFFFF"><title>20 on 2026-07-15</title></rect>
   <rect class="c" style="animation-delay:0.900s" x="668" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>11 on 2026-07-16</title></rect>
   <rect class="c" style="animation-delay:0.945s" x="668" y="149" width="12" height="12" rx="3" fill="#FFFFFF"><title>39 on 2026-07-17</title></rect>
@@ -343,7 +343,7 @@
   <rect class="c" style="animation-delay:1.008s" x="683" y="164" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2026-07-25</title></rect>
   <rect class="c" style="animation-delay:0.756s" x="698" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-07-26</title></rect>
   <rect class="c" style="animation-delay:0.801s" x="698" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-07-27</title></rect>
-  <rect class="c" style="animation-delay:0.846s" x="698" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-07-28</title></rect>
+  <rect class="c" style="animation-delay:0.846s" x="698" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-07-28</title></rect>
   <rect class="c" style="animation-delay:0.891s" x="698" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>11 on 2026-07-29</title></rect>
   <rect class="c" style="animation-delay:0.936s" x="698" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-07-30</title></rect>
   <rect class="c" style="animation-delay:0.981s" x="698" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-07-31</title></rect>
@@ -352,12 +352,12 @@
   <rect class="c" style="animation-delay:0.819s" x="713" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-08-03</title></rect>
   <rect class="c" style="animation-delay:0.864s" x="713" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-08-04</title></rect>
   <rect class="c" style="animation-delay:0.909s" x="713" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-08-05</title></rect>
-  <rect class="c" style="animation-delay:0.954s" x="713" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-08-06</title></rect>
+  <rect class="c" style="animation-delay:0.954s" x="713" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-08-06</title></rect>
   <rect class="c" style="animation-delay:0.999s" x="713" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-08-07</title></rect>
   <rect class="c" style="animation-delay:1.044s" x="713" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-08-08</title></rect>
   <rect class="c" style="animation-delay:0.792s" x="728" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-08-09</title></rect>
   <rect class="c" style="animation-delay:0.837s" x="728" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-08-10</title></rect>
-  <rect class="c" style="animation-delay:0.882s" x="728" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-08-11</title></rect>
+  <rect class="c" style="animation-delay:0.882s" x="728" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-08-11</title></rect>
   <rect class="c" style="animation-delay:0.927s" x="728" y="119" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2026-08-12</title></rect>
   <rect class="c" style="animation-delay:0.972s" x="728" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-08-13</title></rect>
   <rect class="c" style="animation-delay:1.017s" x="728" y="149" width="12" height="12" rx="3" fill="#6E6E6E"><title>7 on 2026-08-14</title></rect>
@@ -378,9 +378,9 @@
   <rect class="c" style="animation-delay:1.098s" x="758" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-08-29</title></rect>
   <rect class="c" style="animation-delay:0.846s" x="773" y="74" width="12" height="12" rx="3" fill="#3D3D3D"><title>2 on 2026-08-30</title></rect>
   <rect class="c" style="animation-delay:0.891s" x="773" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>5 on 2026-08-31</title></rect>
-  <rect class="c" style="animation-delay:0.936s" x="773" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-09-01</title></rect>
+  <rect class="c" style="animation-delay:0.936s" x="773" y="104" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-09-01</title></rect>
   <rect class="c" style="animation-delay:0.981s" x="773" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>9 on 2026-09-02</title></rect>
-  <rect class="c" style="animation-delay:1.026s" x="773" y="134" width="12" height="12" rx="3" fill="#3D3D3D"><title>6 on 2026-09-03</title></rect>
+  <rect class="c" style="animation-delay:1.026s" x="773" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>6 on 2026-09-03</title></rect>
   <rect class="c" style="animation-delay:1.071s" x="773" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-09-04</title></rect>
   <rect class="c" style="animation-delay:1.116s" x="773" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-09-05</title></rect>
   <rect class="c" style="animation-delay:0.864s" x="788" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-09-06</title></rect>
@@ -399,7 +399,7 @@
   <rect class="c" style="animation-delay:1.152s" x="803" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-09-19</title></rect>
   <rect class="c" style="animation-delay:0.900s" x="818" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-09-20</title></rect>
   <rect class="c" style="animation-delay:0.945s" x="818" y="89" width="12" height="12" rx="3" fill="#3D3D3D"><title>3 on 2026-09-21</title></rect>
-  <rect class="c" style="animation-delay:0.990s" x="818" y="104" width="12" height="12" rx="3" fill="#B3B3B3"><title>18 on 2026-09-22</title></rect>
+  <rect class="c" style="animation-delay:0.990s" x="818" y="104" width="12" height="12" rx="3" fill="#FFFFFF"><title>18 on 2026-09-22</title></rect>
   <rect class="c" style="animation-delay:1.035s" x="818" y="119" width="12" height="12" rx="3" fill="#6E6E6E"><title>11 on 2026-09-23</title></rect>
   <rect class="c" style="animation-delay:1.080s" x="818" y="134" width="12" height="12" rx="3" fill="#6E6E6E"><title>8 on 2026-09-24</title></rect>
   <rect class="c" style="animation-delay:1.125s" x="818" y="149" width="12" height="12" rx="3" fill="#3D3D3D"><title>1 on 2026-09-25</title></rect>
@@ -413,8 +413,8 @@
   <rect class="c" style="animation-delay:1.188s" x="833" y="164" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-10-03</title></rect>
   <rect class="c" style="animation-delay:0.936s" x="848" y="74" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-10-04</title></rect>
   <rect class="c" style="animation-delay:0.981s" x="848" y="89" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-10-05</title></rect>
-  <rect class="c" style="animation-delay:1.026s" x="848" y="104" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"><title>0 on 2026-10-06</title></rect>
-  <text class="mono fade" style="animation-delay:1.78s" x="34" y="210" fill="#F5F5F5" font-size="12.5"><tspan fill="#8A8A8A">~ $</tspan> 1,822 contributions<tspan fill="#5C5C5C"> · </tspan><tspan fill="#8A8A8A">longest</tspan> 27d<tspan fill="#5C5C5C"> · </tspan><tspan fill="#8A8A8A">current</tspan> 0d<tspan fill="#5C5C5C"> · </tspan><tspan fill="#8A8A8A">best</tspan> 39 on Jul 17</text>
+  <rect class="c" style="animation-delay:1.026s" x="848" y="104" width="12" height="12" rx="3" fill="#3D3D3D"><title>4 on 2026-10-06</title></rect>
+  <text class="mono fade" style="animation-delay:1.78s" x="34" y="210" fill="#F5F5F5" font-size="12.5"><tspan fill="#8A8A8A">~ $</tspan> 1,826 contributions<tspan fill="#5C5C5C"> · </tspan><tspan fill="#8A8A8A">longest</tspan> 27d<tspan fill="#5C5C5C"> · </tspan><tspan fill="#8A8A8A">current</tspan> 1d<tspan fill="#5C5C5C"> · </tspan><tspan fill="#8A8A8A">best</tspan> 39 on Jul 17</text>
   <rect class="cur" x="42" y="222" width="7" height="13" fill="#F5F5F5"/>
   <text class="mono fade" style="animation-delay:1.88s" x="698" y="210" text-anchor="end" fill="#5C5C5C" font-size="10.5">less</text>
   <rect class="fade" style="animation-delay:1.88s" x="706" y="200" width="12" height="12" rx="3" fill="#1C1C1C" stroke="#FFFFFF" stroke-opacity=".06"/>
